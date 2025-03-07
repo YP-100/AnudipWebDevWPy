@@ -1,0 +1,12 @@
+[
+    {
+        "stud_id":111,
+        "stud_name":"amar",
+        "stud_fees":10000.0
+    },
+    {
+        "stud_id":222,
+        "stud_name":"Akash",
+        "stud_fees":10000.0
+    }
+]
