@@ -29,5 +29,5 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
 ### Selfstudy:
 - [📌 ./AdvList/selfstudy.py](./AdvList/selfstudy.py)
-- [📌 ./AdvSets/Lab.py](./AdvSets/selfstudy.py)
+- [📌 ./AdvSets/selfstudy.py](./AdvSets/selfstudy.py)
 - [📌 ./Strings/selfstudy.py](./Strings/selfstudy.py)
