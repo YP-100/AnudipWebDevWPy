@@ -16,6 +16,7 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./ExceptionHandling/Lab.py](./ExceptionHandling/Lab.py)
 - [📌 ./FileIo/Lab.py](./FileIo/Lab.py)
 - [📌 ./Functions/Lab.py](./Functions/Lab.py)
+- [📌 ./Functions/Lab.py](./Functions/Lab2.py)
 - [📌 ./JsonAndCsv/Lab.py](./JsonAndCsv/Lab.py)
 - [📌 ./List/Lab.py](./List/Lab.py)
 - [📌 ./Sets/Lab.py](./Sets/Lab.py)
