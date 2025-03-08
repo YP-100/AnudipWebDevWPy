@@ -23,6 +23,7 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./Statements/Lab.py](./Statements/Lab.py)
 - [📌 ./Statements/Lab.py](./Statements/Lab.py)
 - [📌 ./Strings/Lab.py](./Strings/Lab.py)
+- [📌 ./Strings/Lab.py](./Strings/Lab2.py)
 - [📌 ./Strings/selfstudy.py](./Strings/selfstudy.py)
 - [📌 ./Tuples/Lab.py](./Tuples/Lab.py)
 - [📌 ./Variables/Lab.py](./Variables/Lab.py)
