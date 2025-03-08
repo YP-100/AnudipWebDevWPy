@@ -10,6 +10,7 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AdvList/Lab.py](./AdvList/Lab.py)
 - [📌 ./AdvList/selfstudy.py](./AdvList/selfstudy.py)
 - [📌 ./AdvSets/Lab.py](./AdvSets/Lab.py)
+- [📌 ./AdvSets/Lab.py](./AdvSets/selfstudy.py)
 - [📌 ./ConditionalIf/Lab.py](./ConditionalIf/Lab.py)
 - [📌 ./Dictionary/Lab.py](./Dictionary/Lab.py)
 - [📌 ./ExceptionHandling/Lab.py](./ExceptionHandling/Lab.py)
