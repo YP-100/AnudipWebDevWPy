@@ -1,19 +1,19 @@
-# # demo 1
-# def count(num):
-#     counter =  1
-#     while counter<=num:
-#         yield counter
-#         counter += 1
+# demo 1
+def count(num):
+    counter =  1
+    while counter<=num:
+        yield counter
+        counter += 1
 
-# gen = count(10)
-# for n in gen:
-#     print(n)
+gen = count(10)
+for n in gen:
+    print(n)
 
-# # demo 2
-# gen = (x ** 2 for x in range(5))
+# demo 2
+gen = (x ** 2 for x in range(5))
 
-# for num in gen:
-#     print(num)
+for num in gen:
+    print(num)
 
 # demo 3
 
@@ -26,3 +26,18 @@ for e in even:
 odd = (num for num in numbers if num%2 != 0)
 for o in odd:
     print(o)
+
+# demo 4
+
+words = ["FIRST","TOPIC","IN","PYTHON","GENERATORS"]
+icase = (w.lower() for w in words)
+
+# demo 5
+def infinite(start=0):
+    while True:
+        yield start
+        start+=1
+counter = infinite()
+
+for i in range(5):
+    print(next(counter))
