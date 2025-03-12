@@ -27,9 +27,11 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./Tuples/Lab.py](./Tuples/Lab.py)
 - [📌 ./Variables/Lab.py](./Variables/Lab.py)
 - [📌 ./Generator/Lab.py](./Generator/Lab.py)
+- [📌 ./Decorator/Lab.py](./Decorator/Lab.py)
 
 ### Selfstudy:
 - [📌 ./AdvList/selfstudy.py](./AdvList/selfstudy.py)
 - [📌 ./AdvSets/selfstudy.py](./AdvSets/selfstudy.py)
 - [📌 ./Sets/selfstudy.py](./Sets/selfstudy.py)
 - [📌 ./Strings/selfstudy.py](./Strings/selfstudy.py)
+- [📌 ./Decorator/selfstudy.py](./selfstudy/Lab.py)
