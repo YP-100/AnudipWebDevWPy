@@ -34,4 +34,4 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AdvSets/selfstudy.py](./AdvSets/selfstudy.py)
 - [📌 ./Sets/selfstudy.py](./Sets/selfstudy.py)
 - [📌 ./Strings/selfstudy.py](./Strings/selfstudy.py)
-- [📌 ./Decorators/selfstudy.py](./Decorators/selfstudy/Lab.py)
+-  [📌 ./Decorators/selfstudy.py](./Decorators/selfstudy.py)
