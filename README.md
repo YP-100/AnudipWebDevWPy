@@ -29,6 +29,7 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./Generator/Lab.py](./Generator/Lab.py)
 - [📌 ./Decorators/Lab.py](./Decorators/Lab.py)
 - [📌 ./ClassObj/Lab.py](./ClassObj/Lab.py)
+- [📌 ./Method_over/Lab.py](./Method_over/Lab.py)
 
 ### Self-study:
 - [📌 ./AdvList/selfstudy.py](./AdvList/selfstudy.py)
