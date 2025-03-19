@@ -30,6 +30,8 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./Decorators/Lab.py](./Decorators/Lab.py)
 - [📌 ./ClassObj/Lab.py](./ClassObj/Lab.py)
 - [📌 ./Method_over/Lab.py](./Method_over/Lab.py)
+- [📌 ./inheri-methoverrid/Lab.py](./inheri-methoverrid/Lab.py)
+- - [📌 ./Encap&abst/Lab.py](./Encap&abst/Lab.py)
 
 ### Self-study:
 - [📌 ./AdvList/selfstudy.py](./AdvList/selfstudy.py)
