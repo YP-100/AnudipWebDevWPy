@@ -32,10 +32,13 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./Method_over/Lab.py](./Method_over/Lab.py)
 - [📌 ./inheri-methoverrid/Lab.py](./inheri-methoverrid/Lab.py)
 - [📌 ./Encap&abst/Lab.py](./Encap&abst/Lab.py)
+- [📌 ./magicmeth_opeover/Lab.py](./magicmeth_opeover/Lab.py)
+- [📌 ./moduless/Lab](./moduless/Lab)
 
 ### Self-study:
 - [📌 ./AdvList/selfstudy.py](./AdvList/selfstudy.py)
 - [📌 ./AdvSets/selfstudy.py](./AdvSets/selfstudy.py)
 - [📌 ./Sets/selfstudy.py](./Sets/selfstudy.py)
 - [📌 ./Strings/selfstudy.py](./Strings/selfstudy.py)
--  [📌 ./Decorators/selfstudy.py](./Decorators/selfstudy.py)
+- [📌 ./Decorators/selfstudy.py](./Decorators/selfstudy.py)
+- [📌 ./magicmeth_opeover/selfstudy.py](./magicmeth_opeover/selfstudy.py)
