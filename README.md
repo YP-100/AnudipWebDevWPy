@@ -34,6 +34,8 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./Encap&abst/Lab.py](./Encap&abst/Lab.py)
 - [📌 ./magicmeth_opeover/Lab.py](./magicmeth_opeover/Lab.py)
 - [📌 ./moduless/Lab](./moduless/Lab)
+- [📌 ./moduless/inbuiltmod/Lab.py](./moduless/inbuiltmod/Lab.py)
+
 
 ### Self-study:
 - [📌 ./AdvList/selfstudy.py](./AdvList/selfstudy.py)
