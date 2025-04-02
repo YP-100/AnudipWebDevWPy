@@ -53,4 +53,4 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
 ### Labs:
 
-- [📌 ./AnuPython/AdvList/selfstudy.py](./AnuPython/AdvList/selfstudy.py)
+- [📌 .AnuHCJs/Basics/Lab.html](.AnuHCJs/Basics/Lab.html)
