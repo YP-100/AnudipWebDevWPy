@@ -1,0 +1,18 @@
+#  Using input function take two number and then swap the number
+
+# num1 = int(input("Enter first number: "))
+# num2 = int(input("Enter second number: "))
+# num3 = num1
+# num1 = num2
+# num2 = num3
+# print("after swapping numbers are: ", num1, num2)
+
+# #  Find the Simple Interest on Rs. 200 for 5 years at 5% per year.
+
+# SI = (200*5*5)/100 #because simple intrest = (profit*time*rate)/ 100
+# print(SI)
+
+A = {1,2,3} 
+B = {4,5,6,7,8} 
+result = A - B 
+print(result)
