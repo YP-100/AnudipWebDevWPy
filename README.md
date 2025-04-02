@@ -3,6 +3,8 @@ YEAR - 2025
 This repository contains code and concepts I explored during my course at Anudip Foundation. While some topics were new, many were a refresher of what I had learned earlier. Documenting my progress and implementations here.
 MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
+#Python:
+
 ## Important Files:
 
 ### Labs:
@@ -44,3 +46,11 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AnuPython/Decorators/selfstudy.py](./AnuPython/Decorators/selfstudy.py)
 - [📌 ./AnuPython/magicmeth_opeover/selfstudy.py](./AnuPython/magicmeth_opeover/selfstudy.py)
 - [📌 ./AnuPython/magicmeth_opeover/selfstudy.py](./magicmeth_opeover/selfstudy.py)
+
+#Html-Css-Js
+
+## Important Files:
+
+### Labs:
+
+- [📌 ./AnuPython/AdvList/selfstudy.py](./AnuPython/AdvList/selfstudy.py)
