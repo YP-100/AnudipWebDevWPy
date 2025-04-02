@@ -53,4 +53,4 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
 #### Labs:
 
-- [📌 .AnuHCJs/Basics/Lab.html](.AnuHCJs/Basics/Lab.html)
+- [📌 ./AnuHCJs/Basics/Lab.html](./AnuHCJs/Basics/Lab.html)
