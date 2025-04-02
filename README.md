@@ -5,9 +5,9 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
 # Python:
 
-### Important Files:
+## Important Files:
 
-#### Labs:
+### Labs:
 
 - [📌 ./AnuPython/dvDict/Lab.py](./AnuPython/AdvDict/Lab.py)
 - [📌 ./AnuPython/AdvList/Lab.py](./AnuPython/AdvList/Lab.py)
@@ -37,7 +37,7 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AnuPython/moduless/Lab](./AnuPython/moduless/Lab)
 - [📌 ./AnuPython/moduless/inbuiltmod/Lab.py](./AnuPython/moduless/inbuiltmod/Lab.py)
 
-#### Self-study:
+### Self-study:
 
 - [📌 ./AnuPython/AdvList/selfstudy.py](./AnuPython/AdvList/selfstudy.py)
 - [📌 ./AnuPython/AdvSets/selfstudy.py](./AnuPython/AdvSets/selfstudy.py)
@@ -47,9 +47,9 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AnuPython/magicmeth_opeover/selfstudy.py](./AnuPython/magicmeth_opeover/selfstudy.py)
 - [📌 ./AnuPython/magicmeth_opeover/selfstudy.py](./magicmeth_opeover/selfstudy.py)
 
-## Html-Css-Js
+# Html-Css-Js
 
-### Important Files:
+## Important Files:
 
 #### Labs:
 
