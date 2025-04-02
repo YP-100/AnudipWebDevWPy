@@ -1,3 +1,0 @@
-Id of student : AP009
-Name of student : Amar
-percentage of student : 78%
