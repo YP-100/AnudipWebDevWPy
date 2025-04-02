@@ -3,7 +3,7 @@ YEAR - 2025
 This repository contains code and concepts I explored during my course at Anudip Foundation. While some topics were new, many were a refresher of what I had learned earlier. Documenting my progress and implementations here.
 MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
-##Python:
+# Python:
 
 ### Important Files:
 
