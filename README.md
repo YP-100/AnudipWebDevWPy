@@ -1,7 +1,6 @@
 YEAR - 2025
 
-This repo contains all the things i have learned after joining Adv Web dev Using Python Course By ANUDIP FOUNDATION
-
+This repository contains code and concepts I explored during my course at Anudip Foundation. While some topics were new, many were a refresher of what I had learned earlier. Documenting my progress and implementations here.
 MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
 ## Important Files:
