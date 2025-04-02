@@ -1,7 +1,0 @@
-{
-    "books": [
-    {"title": "java refrence", "author": "Herbert Schildt", "price": "500 rs"},
-    {"title": "python refrence", "author": "Mark Lutz", "price": "600 rs"}
-    ]
-}
-    
