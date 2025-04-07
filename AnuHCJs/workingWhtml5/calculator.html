@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="form1" name="form1" oninput="output1.value=parseInt(num1.value, 10)+parseInt(num2.value, 10)">
+        <fieldset>
+            <legend>Addition :</legend>
+
+            <input type="number" name="num1" id="num1" value="0"> + <input type="number" name="num2" id="num2" value="0">
+        </fieldset>
+    </form>
+    <label>Add Result: </label>
+    <output name="output1" for="num1 num2" form="form2">0</output>
+
+
+    <form id="form2" name="form2" oninput="output2.value=parseInt(num1.value, 10)-parseInt(num2.value, 10)">
+        <fieldset>
+            <legend>Subtraction :</legend>
+
+            <input type="number" name="num1" id="num1" value="0"> - <input type="number" name="num2" id="num2" value="0">
+        </fieldset>
+    </form>
+    <label>Sub Result: </label>
+    <output name="output2" for="num1 num2" form="form2">0</output>
+
+    <form id="form3" name="form3" oninput="output3.value=parseInt(num1.value, 10) * parseInt(num2.value, 10)">
+        <fieldset>
+            <legend>Multiplication :</legend> :</legend>
+
+            <input type="number" name="num1" id="num1" value="0"> * <input type="number" name="num2" id="num2" value="0">
+        </fieldset>
+    </form>
+    <label>Mul Result : </label>
+    <output name="output3" for="num1 num2" form="form3">0</output>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Survey Form</title>
+</head>
+
+<body>
+
+    <div align="center" margin="20px" style="margin: 250px; margin-top: 0;">
+        <h1>Survey Form</h1>
+
+        <form>
+            <input type="text" name="name" placeholder="Enter Your Name"><br><br>
+
+            <input type="email" name="email" placeholder="Enter your email"><br><br>
+
+            <input type="number" name="age" placeholder="Enter your age"><br><br>
+            <select name="role">
+                <option value="student">Student</option>
+                <option value="professional">Professional</option>
+                <option value="other">Other</option>
+            </select><br><br>
+
+            <div align="left">
+            <label>Would you recommend this survey form to a friend?</label><br>
+                <input type="radio" name="recommend" value="yes" > Yes<br>
+                <input type="radio" name="recommend" value="no"> No<br>
+                <input type="radio" name="recommend" value="maybe"> Maybe<br><br>
+            </div>
+
+            <div align="left">
+            <label>Languages and Frameworks Known (check all that apply):</label><br>
+            <input type="checkbox" name="language" value="java"> Java<br>
+            <input type="checkbox" name="language" value="python"> Python<br>
+            <input type="checkbox" name="language" value="react"> React<br>
+            <input type="checkbox" name="language" value="angular"> Angular<br>
+            <input type="checkbox" name="language" value="spring"> Spring<br><br>
+            </div>
+
+            <label>Any comments or suggestions:</label><br>
+            <textarea name="comments" rows="4" cols="150"></textarea><br><br>
+
+            <input type="submit" value="Sign Up">
+        </form>
+
+    </div>
+</body>
+
+</html>
