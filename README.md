@@ -56,4 +56,12 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AnuHCJs/Basics/Lab.html](./AnuHCJs/Basics/Lab.html)
 - [📌 ./AnuHCJs/basics2/Lab.html](./AnuHCJs/basics2/Lab.html)
 - [📌 ./AnuHCJs/basics2/Lab2.html](./AnuHCJs/basics2/Lab2.html)
+- [📌 ./AnuHCJs/Table&forms/Lab.html](./AnuHCJs/Table&forms/Lab.html)
+- [📌 ./AnuHCJs/workingWhtml5/Lab.html](./AnuHCJs/workingWhtml5/Lab.html)
+
+
+
+### Self-Study Files:
+
+- [📌 ./AnuHCJs/Table&forms/selfstudy.html](./AnuHCJs/Table&forms/selfstudy.html)
 
