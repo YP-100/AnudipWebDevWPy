@@ -58,6 +58,8 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AnuHCJs/basics2/Lab2.html](./AnuHCJs/basics2/Lab2.html)
 - [📌 ./AnuHCJs/Table&forms/Lab.html](./AnuHCJs/Table&forms/Lab.html)
 - [📌 ./AnuHCJs/workingWhtml5/Lab.html](./AnuHCJs/workingWhtml5/Lab.html)
+- [📌 ./AnuHCJs/Multimedia&css/Lab.html](./AnuHCJs/Multimedia&css/Lab.html)
+
 
 
 
