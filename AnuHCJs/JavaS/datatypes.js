@@ -1,0 +1,11 @@
+var str1 ="full stack demo with python";
+var str2 = new String("hello python!!");
+console.log(str1);
+console.log(str2);
+length = str1.length;
+console.log('length: '+length);
+console.log(str1.startsWith('full',0));
+console.log(str1.endsWith('python', 27));
+console.log(str1.includes('stack',0));
+console.log(str1.includes ('demo',0));
+console.log(str2.repeat(3));
