@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Change Background Color</title>
+  <!-- styling for buton and body -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+
+      /* changes color smoothly */
+      transition: background-color 0.5s ease;
+    }
+
+    button {
+      padding: 15px 30px;
+      font-size: 18px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <h1>Change Background Color</h1>
+  <!-- on click triggers changebgcolor function -->
+  <button onclick="changeBackgroundColor()">Change Background Color</button>
+
+  <script>
+    function getRandomColor() {
+
+        // the color id contains  hexadecimal values i.e 16 values from 0-9 and a-f so this are those
+      const letters = '0123456789ABCDEF';
+      let color = '#';
+      for (let i = 0; i < 6; i++) {
+        // those hexa decimal values will be picked randomly and random color will be generated
+        color += letters[Math.floor(Math.random() * 16)];
+      }
+      return color;
+    }
+
+    function changeBackgroundColor() {
+
+        //changing the bg color
+      document.body.style.backgroundColor = getRandomColor();
+    }
+  </script>
+</body>
+</html>
