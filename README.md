@@ -62,6 +62,7 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AnuHCJs/JavaS/Lab.html](./AnuHCJs/JavaS/Lab.html)
 - [📌 ./AnuHCJs/JavaS/Lab2.html](./AnuHCJs/JavaS/Lab2.html)
 - [📌 ./AnuHCJs/some_more_demos/Lab.html](./AnuHCJs/some_more_demos/Lab.html)
+- [📌 ./AnuHCJs/some_more_demos/Lab2.html](./AnuHCJs/some_more_demos/Lab2.html)
 
 
 
