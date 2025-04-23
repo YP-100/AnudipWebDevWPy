@@ -4,7 +4,7 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="Ysql@1092",
+    passwd="Mypass",
     database="quizapp"
 )
 
