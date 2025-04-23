@@ -4,7 +4,7 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="Mypass",
+    passwd="Mypass", #this is an dummy password you need to use yours
     database="quizapp"
 )
 
