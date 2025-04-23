@@ -49,7 +49,7 @@ questions_data = [
         ("What is needed to run javascript outside the browser? ____js", "node"),
         ("What is square root of 9?", "3"),
         ("What is national sport of India?", "hockey"),
-        ("How many colors are there in rainbow?", "7")
+        ("How many colors are there in rainbow?", "7"),
         ("What is the national language of india?", "hindi"),
         ("who is the national animal of india","tiger")
     ]
