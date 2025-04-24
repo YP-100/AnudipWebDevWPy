@@ -10,9 +10,20 @@ db = mysql.connector.connect(
 
 cursor = db.cursor()
 
-name = input("Please enter your name: ")
-cursor.execute("SELECT password, score, highscore FROM scores WHERE name = %s", (name,))
-result = cursor.fetchone()
+while True:
+    name = input("Please enter your name: ")
+    cursor.execute("SELECT password, score, highscore FROM scores WHERE name = %s", (name,))
+    result = cursor.fetchone()
+    
+    if result:
+        print("User already exists!")
+        is_user = input("Is this you? (yes/no): ").strip().lower()
+        if is_user == "yes":
+            break  #break the loop if user says its him and go to password
+        else:
+            continue  #continue the loop again and will ask name again
+    else:
+        break  #new users can go directly to password
 
 #Check if the user esixt ig yes check password and print previous scores 
 if result:
