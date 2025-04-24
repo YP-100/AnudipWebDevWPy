@@ -25,7 +25,7 @@ while True:
     else:
         break  #new users can go directly to password
 
-#Check if the user esixt ig yes check password and print previous scores 
+#Check the password and print previous scores 
 if result:
     saved_password, previous_score, highscore = result
     password_attempt = input("Please enter your password: ")
