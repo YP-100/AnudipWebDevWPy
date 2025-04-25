@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS scores (
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS qna (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    question TEXT NOT NULL UNIQUE,
+    question VARCHAR(500) NOT NULL UNIQUE,
     answer VARCHAR(100) NOT NULL
 )
 """)
