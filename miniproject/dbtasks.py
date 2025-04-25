@@ -14,7 +14,7 @@ cursor = db.cursor()
 # clear user data or questions
 # cursor.execute("TRUNCATE TABLE scores")
 # cursor.execute("TRUNCATE TABLE qna")
-# conn.commit()
+# db.commit()
 # print("Tables truncated successfully!")
 
 
