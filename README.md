@@ -6,10 +6,10 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
 # Projects:
 ### MiniProject:
-[📌 Mini-Quiz App](./miniproject)
+-[📌 Mini-Quiz App](./miniproject)
 
 ### Final project:
-[📌 A multi-user blog platform with full admin control](https://github.com/YP-100/BlogApp-Django)
+-[📌 A multi-user blog platform with full admin control](https://github.com/YP-100/BlogApp-Django)
 
 
 # Python:
