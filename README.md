@@ -4,6 +4,14 @@ This repository contains code and concepts I explored during my course at Anudip
 MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
 
+# Projects:
+## MiniProject
+[📌 Mini-Quiz App](./miniproject)
+
+## Final project:
+[📌 A multi-user blog platform with full admin control](https://github.com/YP-100/BlogApp-Django)
+
+
 # Python:
 
 ## Important Files:
@@ -71,11 +79,3 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
 - [📌 ./AnuHCJs/Table&forms/selfstudy.html](./AnuHCJs/Table&forms/selfstudy.html)
 - [📌 ./AnuHCJs/JavaS/selfstudy](./AnuHCJs/JavaS/selfstudy)
-
-
-# Projects:
-## MiniProject
-[📌 Mini-Quiz App](./miniproject)
-
-## Final project:
-[📌 A multi-user blog platform with full admin control](https://github.com/YP-100/BlogApp-Django)
