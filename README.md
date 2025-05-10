@@ -3,6 +3,7 @@ YEAR - 2025
 This repository contains code and concepts I explored during my course at Anudip Foundation. While some topics were new, many were a refresher of what I had learned earlier. Documenting my progress and implementations here.
 MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 
+
 # Python:
 
 ## Important Files:
@@ -47,6 +48,7 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AnuPython/magicmeth_opeover/selfstudy.py](./AnuPython/magicmeth_opeover/selfstudy.py)
 - [📌 ./AnuPython/magicmeth_opeover/selfstudy.py](./magicmeth_opeover/selfstudy.py)
 
+
 # Html-Css-Js
 
 ## Important Files:
@@ -65,10 +67,15 @@ MORE ABOUT ANUDIP FOUNDATION: https://anudip.org/about-us/
 - [📌 ./AnuHCJs/some_more_demos/Lab2.html](./AnuHCJs/some_more_demos/Lab2.html)
 
 
-
-
 ### Self-Study Files:
 
 - [📌 ./AnuHCJs/Table&forms/selfstudy.html](./AnuHCJs/Table&forms/selfstudy.html)
 - [📌 ./AnuHCJs/JavaS/selfstudy](./AnuHCJs/JavaS/selfstudy)
 
+
+# Projects:
+## MiniProject
+[📌 Mini-Quiz App](./miniproject)
+
+## Final project:
+[📌 Mini-Quiz App]()
